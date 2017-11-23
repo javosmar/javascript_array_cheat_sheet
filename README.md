@@ -1,4 +1,4 @@
-# JavaScript array cheatsheet
+# JavaScript array cheat sheet
 
 * [Create an array](#create-an-array)
 * [Empty an array](#empty-an-array)

@@ -39,7 +39,7 @@ For documentation on JavaScript Array object and its methods go [here](https://d
 
 ## Create an array
 
-Use `Array` constructor (not recommended)
+With `Array` constructor (not recommended)
 
 ```javascript
 var meals = new Array('breakfast', 'lunch', 'dinner')
@@ -48,7 +48,7 @@ meals
 // ['breakfast', 'lunch', 'dinner']
 ```
 
-Use array literal notation
+With array literal notation
 
 ```javascript
 var meals = ['breakfast', 'lunch', 'dinner']
@@ -67,7 +67,7 @@ var meals = ['breakfast', 'lunch', 'dinner']
 meals = []
 ```
 
-Set the array’s length to zero
+Set an array’s length to `0`
 
 ```javascript
 var meals = ['breakfast', 'lunch', 'dinner']
@@ -75,7 +75,7 @@ var meals = ['breakfast', 'lunch', 'dinner']
 meals.length = 0
 ```
 
-Use `splice` method
+With `splice` method
 
 ```javascript
 var meals = ['breakfast', 'lunch', 'dinner']
